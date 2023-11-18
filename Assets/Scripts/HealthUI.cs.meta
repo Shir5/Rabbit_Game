@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5d488166bbc30b4baf0648556043d6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hp_carrot: {instanceID: 0}
+  - fullHp: {fileID: 2211241049920431183, guid: 259a3320523c0154b952592e41d1fa74,
+      type: 3}
+  - emptyHp: {fileID: 577471067667714467, guid: 259a3320523c0154b952592e41d1fa74,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
